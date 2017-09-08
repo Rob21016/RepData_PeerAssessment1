@@ -14,6 +14,9 @@ This dataset include the following variables:
 
 - **interval**: Identifier for the 5-minute interval in which measurement was taken
 
+**NB**: the figures were not placed in the figure/ folder, but in the folder figure-html inside the folder
+PA1_template_files
+
 ## 1. Loading and preprocessing the data
 
 
